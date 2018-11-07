@@ -1,3 +1,4 @@
 # Docs
 
-* [Docker](./docker/docker.md)
+* [Docker](./docker/index.md)
+* [DB Indexes](./database-indexes/index.md)
