@@ -1,3 +1,3 @@
-# Documentations
+# Docs
 
-* [Docker Docs](./docker/docker-docs.md)
+* [Docker](./docker/docker.md)
